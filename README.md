@@ -1,6 +1,8 @@
-C:/Python313/python.exe d:/contrib/todo-tkinter/main.py
-C:/Python313/python.exe d:/contrib/todo-tkinter/main.py
-hon Tkinter\*\*.
+---
+TODO-TKINTER DESKTOP APP
+---
+
+Python Tkinter\*\*.
 This project is perfect for beginners who want to practice GUI development, event handling, and file operations in Python.
 
 ---
@@ -109,11 +111,3 @@ This project is open-source and available under the **MIT License**.
 If you like this project, consider giving it a **star ⭐ on GitHub** to support the developer!
 
 ---
-
-If you want, I can also prepare:
-
-✅ A logo for the project
-✅ A cleaner UI with `ttk` or `customtkinter`
-✅ A version using SQLite database
-
-Just tell me!
